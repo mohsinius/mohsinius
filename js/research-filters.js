@@ -325,7 +325,7 @@ function openModal(projectIndex) {
   // })
 
   // // Set download and GitHub links
-  document.getElementById("modalDownload").href = project.downloadLink;
+  document.getElementById("modalDownload").href = project.downloadLink
   // document.getElementById("modalGithub").href = project.githubLink
 
   // Populate slider images
