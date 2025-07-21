@@ -13,7 +13,7 @@ const researchProjects = [
       "Images/Research/Publications/Seasonal Weather Pattern Prediction using Machine Learning/Training and testing data distribution in Rainfall dataset.jpg",
       "Images/Research/Publications/Seasonal Weather Pattern Prediction using Machine Learning/Training and testing data distribution in temperature dataset.jpg"
     ],
-    downloadLink: "#",
+    downloadLink: "https://www.researchgate.net/publication/389691857_SEASONAL_WEATHER_PATTERN_PREDICTION_USING_MACHINE_LEARNING",
   },
   {
     title: "Jute Fiber Optimization for Enhancing Concrete Properties: A Review",
@@ -28,7 +28,7 @@ const researchProjects = [
       "Images/Research/Publications/Jute Fiber Optimization for Enhancing Concrete Properties A Review/slump.jpg",
       "Images/Research/Publications/Jute Fiber Optimization for Enhancing Concrete Properties A Review/Split Tensile Strength in MPa_28d.jpg",
     ],
-    downloadLink: "#",
+    downloadLink: "https://www.researchgate.net/publication/387699902_JUTE_FIBER_OPTIMIZATION_FOR_ENHANCING_CONCRETE_PROPERTIES_A_REVIEW",
   },
   {
     title: "Prediction of Tropical Cyclone in Bangladesh Using ENSO Index Through Ensemble Learning Technique",
